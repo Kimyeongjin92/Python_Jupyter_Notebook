@@ -1,7 +1,0 @@
-코딩도장 https://dojang.io/mod/page/view.php?id=2155
-
-프로그램 언어순위 https://www.tiobe.com/tiobe-index/
-
-cmd에서 python 버전 확인: python -V
-
-쥬비터 노트북 실행 : cmd에서 입력 python -m notebook
